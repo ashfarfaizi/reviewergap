@@ -6,8 +6,8 @@ A small, self-contained study of *scalable oversight*: when one language model i
 to check another model's work, which errors does it reliably catch, which does it miss,
 and do two different reviewers fail on the *same* problems?
 
-This matters because a growing number of AI safety proposals — AI graders, debate,
-automated red-teaming, "AI checking AI" — assume the checker works. ReviewerGap measures
+This matters because a growing number of AI safety proposals such as AI graders, debate,
+automated red-teaming, "AI checking AI" and assume the checker works. ReviewerGap measures
 whether it does, on a task where the ground truth is known exactly.
 
 ---
